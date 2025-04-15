@@ -9,10 +9,8 @@ import {
   Paper,
   List,
   ListItem,
-  ListItemText,
   AppBar,
-  Toolbar,
-  IconButton,
+  Toolbar
 } from '@mui/material';
 import { useAuth } from '../contexts/AuthContext';
 
